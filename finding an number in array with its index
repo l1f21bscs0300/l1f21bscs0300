@@ -1,0 +1,31 @@
+//#include<iostream>
+//using namespace std;
+//int main()
+//{
+//	int num, n , arra[100],index =0;
+//	int count = 0 ;
+//	cout << " enter the number you want to find in array :";
+//	cin >> num;
+//	cout << " enter the total number of values inside an array :";
+//	cin >> n;
+//	for (int i = 0; i < n; i++)
+//	{
+//		cout << " enter number " << i + 1 << " = ";
+//		cin >> arra[i];
+//	}
+//	for (int i = 0; i < n; i++)
+//	{
+//		if (num == arra[i])
+//		{
+//			count++;
+//
+//			cout << " the number you need to find in the array is  " << num << endl ; 
+//			index = i;
+//		}
+//	}
+//	cout << " the index number of the number which we want to find is : " << index<< endl ;
+//	cout << "the number you need to find its repetation is the array is : " << count<< " times "<<endl ;
+//	system(" pause");
+//	return 0;
+//
+//}
